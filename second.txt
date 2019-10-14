@@ -1,1 +1,2 @@
-This is the second file. We ll commit this without first stagining it using smart git unlike the terminal where stagining was necessary before commiting 
+This is the second file. We ll commit this without first stagining it using smart git 
+unlike the terminal where stagining was necessary before commiting 
